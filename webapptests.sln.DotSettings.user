@@ -3,4 +3,5 @@
 	<s:Int64 x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/AutoNamingCompletedVersion/@EntryValue">2</s:Int64>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
   &lt;Assembly Path="/home/johan/.nuget/packages/nunit/3.11.0/lib/netstandard2.0/nunit.framework.dll" /&gt;
+  &lt;Assembly Path="/home/johan/RiderProjects/webapptests/webapptests/dependencies/Selenium.WebDriverBackedSelenium.dll" /&gt;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
